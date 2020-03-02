@@ -1,6 +1,6 @@
 <img src="./public/service_design.png"></img>
 
-## Available Scripts
+## JARED UI
 
 In the project directory, you can run:
 
